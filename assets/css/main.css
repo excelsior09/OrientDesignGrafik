@@ -20,7 +20,7 @@
 /* Colors */
 :root {
   --color-default: #fafafa;
-  --color-primary: #27a776;
+  --color-primary: #d65616e7;
   --color-secondary: #161718;
 }
 
@@ -45,7 +45,7 @@ a {
 }
 
 a:hover {
-  color: #32cf93;
+  color: #d65616e7;
   text-decoration: none;
 }
 
@@ -82,7 +82,7 @@ h6 {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #5bd9a9;
+  background: #d65616e7;
   margin: 4px 10px;
 }
 
@@ -136,7 +136,7 @@ h6 {
 }
 
 .page-header .cta-btn:hover {
-  background: #2cbc85;
+  background: #d65616e7;
 }
 
 /*--------------------------------------------------------------
@@ -163,7 +163,7 @@ h6 {
 }
 
 .scroll-top:hover {
-  background: rgba(39, 167, 118, 0.8);
+  background: #d65616e7;
   color: #fff;
 }
 
